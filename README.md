@@ -1,4 +1,4 @@
-#  Analyzing The [FlySafe](https://doi.org/10.1016/j.pmcj.2025.102066){target="_blank"} System Face to Malicious UAVs Playing Black Hole Attacks
+#  Analyzing The [FlySafe](https://doi.org/10.1016/j.pmcj.2025.102066) System Face to Malicious UAVs Playing Black Hole Attacks
 
 Many of UAV networks demand by dynamic infrastructure/topological services, such as sharing UAV location information, to providing UAV-coordinated and safe flight.  More than just fault-tolerant, this infrastructure service must be resilient to black hole attacks that aim corrupt and damage the UAV network topology by disregarding their neighborhood information. This work analyzes the resilience of the FlySafe system for protecting UAV networks against malicious UAV operating black hole attacks sharing no location information about its neighbors in a swarm environment, taking into account opportunistic approaches like epidemic and direct delivery, and enhancing neighbor discovery process. An simulation evaluation with NS3 showed the security of the location service, particularly in identifying and segregating black hole attackers from network operation in average up to 33.79~s. Furthermore, FlySafe demonstrated an improvement in overall neighborhood perception in about 49.9\%.
 
@@ -9,7 +9,7 @@ Cibersegurança, SBSeg 2026, Porto Alegre, RS, Brazil. SBC (Accepted for
 publication).
 ```
 
-This repository contains the implementation of FlySafe with countermeasures to
+This repository contains the implementation of [FlySafe](https://doi.org/10.1016/j.pmcj.2025.102066) with countermeasures to
 black hole attacs using the NS-3 network simulator.
 
 ## Environment Configuration
