@@ -4,12 +4,13 @@ Many of UAV networks demand by dynamic infrastructure/topological services, such
 
 ```
 Batista, A. and dos Santos, A. L. (2026). Analyzing The FlySafe System Face
-to Malicious UAVs Playing Black Hole Attacks. In Anais do XXVI Simpósio
-Brasileiro de Cibersegurança (SBSeg), SBRC, RS, Brasil. SBC (Accepted
-for publication)
+to Malicious UAVs Playing Black Hole Attacks. In Simpósio Brasileiro de
+Cibersegurança, SBSeg 2026, Porto Alegre, RS, Brazil. SBC (Accepted for
+publication).
 ```
 
-This repository contains the implementation of FlySafe using the NS-3 network simulator.
+This repository contains the implementation of FlySafe with countermeasures to
+black hole attacs using the NS-3 network simulator.
 
 ## Environment Configuration
 
