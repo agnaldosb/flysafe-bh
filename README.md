@@ -3,8 +3,10 @@
 Many of UAV networks demand by dynamic infrastructure/topological services, such as sharing UAV location information, to providing UAV-coordinated and safe flight.  More than just fault-tolerant, this infrastructure service must be resilient to black hole attacks that aim corrupt and damage the UAV network topology by disregarding their neighborhood information. This work analyzes the resilience of the FlySafe system for protecting UAV networks against malicious UAV operating black hole attacks sharing no location information about its neighbors in a swarm environment, taking into account opportunistic approaches like epidemic and direct delivery, and enhancing neighbor discovery process. An simulation evaluation with NS3 showed the security of the location service, particularly in identifying and segregating black hole attackers from network operation in average up to 33.79~s. Furthermore, FlySafe demonstrated an improvement in overall neighborhood perception in about 49.9\%.
 
 ```
-Batista, A. and dos Santos, A. L. (2026). Analyzing The FlySafe System Face to Malicious UAVs Playing Black Hole Attacks.
-In Anais do XXVI Simpo ́sio Brasileiro de Ciberseguranc ̧a (SBSeg), SBRC, RS, Brasil. SBC (Accepted for publica- tion)
+Batista, A. and dos Santos, A. L. (2026). Analyzing The FlySafe System Face
+to Malicious UAVs Playing Black Hole Attacks. In Anais do XXVI Simpósio
+Brasileiro de Cibersegurança (SBSeg), SBRC, RS, Brasil. SBC (Accepted
+for publication)
 ```
 
 This repository contains the implementation of FlySafe using the NS-3 network simulator.
